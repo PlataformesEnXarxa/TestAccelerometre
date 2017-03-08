@@ -1,0 +1,7 @@
+#Sat Feb 18 15:35:43 CET 2017
+base.0=/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6bd5e080ad853495af60d6d74e9ed26dcd09c2db
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b5845b0975a8c9fcba69a3ee98442e024fc0191/classes.dex
+base.1=/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b5845b0975a8c9fcba69a3ee98442e024fc0191
+file.0=/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6bd5e080ad853495af60d6d74e9ed26dcd09c2db/classes.dex

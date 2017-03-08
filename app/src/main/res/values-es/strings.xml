@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestAccel</string>
+    <string name="action_settings">Settings</string>
+    <string name="shake">Mueve el telefono para cambiar el color</string>
+    <string name="shuffed">El dispositivo fue movido</string>
+    <string name="noAccel">No hay acelerómetro</string>
+    <string name="msgResolution">"\nResolución: "</string>
+    <string name="msgMaxRange">"\nMáximo rango: "</string>
+    <string name="msgPower">"\nEnergia: "</string>
+    <string name="noLightSensor">No hay sensor de luz</string>
+    <string name="txtValue">"\nNuevo valor del sensor de luz= "</string>
+    <string name="txtIntensity">Intensidad\n</string>
+    <string name="hopLine">\n</string>
+    <string name="txtIsLight">Hay sensor de luz.</string>
+</resources>

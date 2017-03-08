@@ -1,0 +1,220 @@
+[
+    {
+        "outputFile": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 46,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 38,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 55,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 48,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 58,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 62,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 69,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 74,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 54,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 52,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 52,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 63,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 65,
+                    "endOffset": 913
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 918,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "/home/santi/AndroidStudioProjects/MiniActivities/TestAccelerometre/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]
